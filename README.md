@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @ArtKillerjob
 
 - 🔬 Experience:
-- • Summer Student at HKSAR Census and Statistics Department
-- • Part-time Student Assistant at CPCE-PolyU
-- • Assistant Data Analyst at Artificial Intelligence Art Limited
+-  Summer Student at HKSAR Census and Statistics Department
+- Part-time Student Assistant at CPCE-PolyU
+- Assistant Data Analyst at Artificial Intelligence Art Limited
 
 💻 Skills:
 • Programming: Python, R
